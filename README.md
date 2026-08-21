@@ -72,6 +72,6 @@ The lab environment includes:
 
 A detailed technical report describing the architecture, infrastructure deployment, log collection process, attack simulations, and security event analysis is available below:
 
-📄 [Splunk Detection Lab Report](LINK_TO_YOUR_GITHUB_REPORT)
+📄 [Splunk Detection Lab Report](https://github.com/nasriadam/Splunk-Detection-Lab/blob/main/Conception_et_mise_en_%C5%93uvre_d_un_laboratoire_de_d%C3%A9tection_et_d_analyse_des_attaques_Windows_%C3%A0_l_aide_de_Splunk_Enterprise__Active_Directory_et_Sysmon.pdf)
 
 ---
